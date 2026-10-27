@@ -1,0 +1,9 @@
+{
+    "name": "tencent-sandbox-node",
+    "version": "1.0.0",
+    "description": "Node.js service for Tencent Cloud Sandbox",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
