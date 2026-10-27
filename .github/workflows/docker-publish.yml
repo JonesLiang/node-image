@@ -23,5 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          # ⚠️ 下面这一行改成你在腾讯云创建的命名空间和仓库名！
           tags: ccr.ccs.tencentyun.com/node-sandbox/node-sandbox:latest
